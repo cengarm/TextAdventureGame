@@ -101,6 +101,7 @@ Collecting all items at battle locations, fighting various obstacles while doing
 - Armor : Light, Medium, Heavy
 
 
-#UML DIAGRAM
+### UML DIAGRAM
+
 ![image](https://github.com/cengarm/TextAdventureGame/assets/126611512/edb9159a-0cf4-49e3-a9bb-a83a458303e7)
 
