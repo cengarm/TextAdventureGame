@@ -1,5 +1,4 @@
 # TextAdventureGame
-This a Adventure Game
 
 A text-based adventure game made in Java.
 
